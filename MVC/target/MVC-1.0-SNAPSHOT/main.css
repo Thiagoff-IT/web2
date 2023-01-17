@@ -1,0 +1,11 @@
+
+.container{
+    background-color: var(--quarta-color-transparecia);
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+.login{
+    margin: auto;
+}
